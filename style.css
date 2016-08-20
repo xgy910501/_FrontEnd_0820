@@ -1,0 +1,17 @@
+/*style.css*/
+h1 {
+    color: #f00;
+    font-family: "Consolas",serif;
+}
+h1#blue {
+    color: #00f;
+}
+p {
+    height: 50px;
+    background: #ddd;
+    text-indent: 2em;
+}
+table {
+     width:300px;
+     height: 300px;
+ }
