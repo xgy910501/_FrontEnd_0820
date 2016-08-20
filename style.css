@@ -1,4 +1,11 @@
 /*style.css*/
+
+h2#yellow {
+    color: yellow;
+}
+h1,h2,p {
+    font-family: "Algerian",serif;
+}
 h1 {
     color: #f00;
     font-family: "Consolas",serif;
